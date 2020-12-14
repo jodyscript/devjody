@@ -7,23 +7,23 @@
 <table>
   <tr>
     <th>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp      🔭 I’m currently working on ...</th>
-    <td>MERN | WinForms | OOP | CSharp</td>
+    <td>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp MERN | WinForms | OOP | CSharp</td>
   </tr>
   <tr>
     <th>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp      🌱 I’m currently learning ...</th>
-    <td>Javascript | React | CSharp | OOP</td>
+    <td>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Javascript | React | CSharp | OOP</td>
   </tr>
   <tr>
     <th>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp      👯 I’m looking to collaborate on ...</th>
-    <td>eating Sushi and/or Pizza.</td>
+    <td>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp eating Sushi and/or Pizza.</td>
   </tr>
   <tr>
     <th>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp      🤔 I’m looking for help with ...</th>
-    <td>closing my Skip the Dishes App.</td>
+    <td>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp closing my Skip the Dishes App.</td>
   </tr>
   <tr>
     <th>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp      📫 How to reach me: ...</th>
-    <td><a href="https://twitter.com/dev_jody">Twitter</a></td>
+    <td>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <a href="https://twitter.com/dev_jody">@dev_jody on Twitter</a></td>
   </tr>
 </table>
 
