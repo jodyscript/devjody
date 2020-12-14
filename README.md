@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <th>_        🔭 I’m currently working on ...</th>
+    <th>_  &nbsp &nbsp &nbsp     🔭 I’m currently working on ...</th>
     <td>MERN | WinForms | OOP | CSharp</td>
   </tr>
   <tr>
