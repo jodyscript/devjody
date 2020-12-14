@@ -6,23 +6,23 @@
 
 <table>
   <tr>
-    <th>        🔭 I’m currently working on ...</th>
+    <th>_        🔭 I’m currently working on ...</th>
     <td>MERN | WinForms | OOP | CSharp</td>
   </tr>
   <tr>
-    <th>        🌱 I’m currently learning ...</th>
+    <th>_      🌱 I’m currently learning ...</th>
     <td>Javascript | React | CSharp | OOP</td>
   </tr>
   <tr>
-    <th>        👯 I’m looking to collaborate on ...</th>
+    <th>_        👯 I’m looking to collaborate on ...</th>
     <td>eating Sushi and/or Pizza.</td>
   </tr>
   <tr>
-    <th>        🤔 I’m looking for help with ...</th>
+    <th>_       🤔 I’m looking for help with ...</th>
     <td>closing my Skip the Dishes App.</td>
   </tr>
   <tr>
-    <th>        📫 How to reach me: ...</th>
+    <th>_        📫 How to reach me: ...</th>
     <td><a href="https://twitter.com/dev_jody">Twitter</a></td>
   </tr>
 </table>
