@@ -1,9 +1,9 @@
-<p align="center"><img src="Images/ProjectClockIntro.png" width="750"></p>
+<h1 align="center">@JodyScript Productions</h1>
+<h2 align="center">Web & Software Development 💻 | Digital Content Creation 🎨 | BEng Design Engineer 📐</h2>
 
 ---
 
-<p align="center">BEng Design Engineer 📐 turned...</p>
-<h2 align="center">💻 Software Developer and Digital Creator 🎨</h2>
+<p align="center"><img src="Images/ProjectClockIntro.png" width="750"></p>
 
 ---
 
@@ -26,14 +26,14 @@
   </tr>
   <tr>
     <th>📫 How to reach me: ...</th>
-    <td><a href="https://twitter.com/dev_jody">@dev_jody on Twitter</a></td>
+    <td><a href="https://twitter.com/jodyscript">@JodyScript Productions on Twitter</a></td>
   </tr>
 </table>
 
 ---
 
 <h3 align="center">I hope you enjoy a looking around...please don't forget to add me on Twitter!</h3><br/>
-<p align="center"><a href="https://twitter.com/dev_jody"><img src="Images/FollowMeOnTwitter.png" width="450"></a></p>
+<p align="center"><a href="https://twitter.com/jodyscript"><img src="Images/FollowMeOnTwitter.png" width="450"></a></p>
 
 ---
 
