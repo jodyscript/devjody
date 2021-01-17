@@ -1,5 +1,6 @@
-<h1 align="center">@JodyScript Productions</h1>
-<h2 align="center">Web & Software Development 💻 | Digital Content Creation 🎨 | BEng Design Engineer 📐</h2>
+<h1 align="center">Welcome to <a href="https://twitter.com/JodyScript">@JodyScript </a>Productions</h1>
+<h2 align="center">Web & Software Development 💻 | Digital Content Creation 🎨</h2>
+<h2 align="center">BEng Design Engineer 📐</h2>
 
 ---
 
